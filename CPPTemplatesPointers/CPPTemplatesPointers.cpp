@@ -1,6 +1,6 @@
 // CPPTemplatesPointers.cpp - By Michael G. Workman
 //
-// This example application displays usage of VOID pointers and generic templates in C++
+// This C++ console application displays usage of VOID pointers and generic templates
 //
 // This example application is freely distributable under terms of MIT open source license
 
